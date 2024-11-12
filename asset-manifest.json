@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Game2/static/css/main.23e35e9f.css",
+    "main.js": "/Game2/static/js/main.5deb8f42.js",
+    "static/media/wiretask.png": "/Game2/static/media/wiretask.040a1ad69a5b34acb183.png",
+    "index.html": "/Game2/index.html",
+    "main.23e35e9f.css.map": "/Game2/static/css/main.23e35e9f.css.map",
+    "main.5deb8f42.js.map": "/Game2/static/js/main.5deb8f42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e35e9f.css",
+    "static/js/main.5deb8f42.js"
+  ]
+}
